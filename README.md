@@ -6,7 +6,7 @@ This is a proof-of-concept packer that I created for a project in one of my univ
 
 Please note that the software is provided as is and comes with no warranty.
 
-Remember to be ethical. :-)
+
 
 ## How to Set Up and Use
 
